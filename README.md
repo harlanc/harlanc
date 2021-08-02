@@ -1,3 +1,15 @@
+<p>
+   <a href="https://github.com/harlanc">
+    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+  	</a>
+  	<a href="https://github.com/harlanc">
+  	  <img src="https://img.shields.io/github/followers/harlanc.svg?lable=GitHub&style=social">
+  	</a>
+  	<a href="https://github.com/harlanc">
+  	  <img src="https://visitor-badge.laobi.icu/badge?page_id=harlanc.harlanc">
+   </a>
+</p>
+
 <p align="left">
   <a href="#" alt="harlanc's github stats"><img src="https://github-readme-stats.vercel.app/api?username=harlanc&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true"/></a>
 </p>
