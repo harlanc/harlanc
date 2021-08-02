@@ -9,11 +9,11 @@
   	  <img src="https://visitor-badge.laobi.icu/badge?page_id=harlanc.harlanc">
    </a>
 </p>
-/*<p>
+<!--<p>
    <a href="https://github.com/harlanc">
      <img src="https://www.bfcounter.vip/generatepic?userid=064a57f7-2d7b-4056-95a0-43347d66ec67">
    </a>
-</p>*/
+</p>-->
 
 
 <p align="left">
