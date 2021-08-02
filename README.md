@@ -10,7 +10,9 @@
    </a>
 </p>
 <p>
-   <a href="https://github.com/harlanc"><img src="https://www.bfcounter.vip/generatepic?userid=064a57f7-2d7b-4056-95a0-43347d66ec67" alt="Page Counter" border="0"></a>
+   <a href="https://github.com/harlanc">
+     <img src="https://www.bfcounter.vip/generatepic?userid=064a57f7-2d7b-4056-95a0-43347d66ec67">
+   </a>
 </p>
 
 
