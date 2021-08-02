@@ -10,6 +10,8 @@
    </a>
 </p>
 
+<a href="https://www.bfcounter.vip/"><img src="https://www.bfcounter.vip/generatepic?userid=064a57f7-2d7b-4056-95a0-43347d66ec67" alt="Page Counter" border="0"></a>
+
 <p align="left">
   <a href="#" alt="harlanc's github stats"><img src="https://github-readme-stats.vercel.app/api?username=harlanc&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true"/></a>
 </p>
