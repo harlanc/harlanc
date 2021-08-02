@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="#" alt="harlanc's github stats"><img src="https://github-readme-stats.vercel.app/api?username=harlanc&hide=["contribs","prs"]" /></a>
+  <a href="#" alt="harlanc's github stats"><img src="https://github-readme-stats.vercel.app/api?username=harlanc&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true"/></a>
 </p>
 <!--
 **harlanc/harlanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
