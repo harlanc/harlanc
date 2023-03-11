@@ -20,10 +20,10 @@
   <a href="#" alt="harlanc's github stats"><img src="https://github-readme-stats.vercel.app/api?username=harlanc&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true"/></a>
 </p>
 
-
+<!-- 
 - 🔭 I’m currently focus on MCU/SFU/WebRTC...
 - 🌱 I’m currently learning and using RUST in my spare time and I wrote a live media server [xiu](https://github.com/harlanc/xiu)...
-- 📫 How to reach me: you can get my QQ/Wechat/discord in the README of [xiu](https://github.com/harlanc/xiu)...
+- 📫 How to reach me: you can get my QQ/Wechat/discord in the README of [xiu](https://github.com/harlanc/xiu)... -->
 
 
 
